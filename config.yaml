@@ -1,0 +1,216 @@
+baseURL: http://ph-Analytics.com  # #this gets the Netlify url
+languageCode: en-us
+title: pH-Analyitics 
+theme: "hugo-fresh-data-science"
+# Put in your google analytics tracking code without quotes like this: UA-XXXXXX...
+googleAnalytics: # UA-XXXXX...
+
+# Disables warnings
+disableKinds:
+- taxonomy
+- taxonomyTerm
+markup:
+  goldmark:
+    renderer:
+      unsafe: true # Allows you to write raw html in your md files
+
+params:
+  # Put your formspree URL in like this:  https://formspree.io/f/...
+  formspreeURL: "https://formspree.io/f/xrgdnypj"   # Done
+  # Open graph allows easy social sharing. If you don't want it you can set it to false or just delete the variable
+  openGraph: true
+  # Used as meta data; describe your site to make Google Bots happy
+  description: We are a consulting firm specilizing in diagnosing organization strength   
+  # Preloader ensures images are loaded before displaying to the user. If you don't want it uncomment to set it to false
+  # preloader: false
+  navbarlogo:
+  # Logo (from static/images/logos/___)  for link:http://localhost:4321/
+    image: logos/PH web DNA_big.png
+    link:  /    
+    brandName:  pH-Analytics 
+    #Default width/height. Uncomment if you need to change
+    width: 100
+    height: 10
+  
+  # Web Fonts Available Here: https://fonts.google.com/
+  googleFontImport: 'https://fonts.googleapis.com/css2?family=Merriweather&family=Nunito&family=Nunito+Sans&family=Work+Sans:wght@300;400&display=swap'
+  header_font: "Merriweather"
+  body_font: "Work Sans"
+  
+  # css
+  css:
+    secondary_color: "#3e9ec5" # "#F39200" "#4FC1EA" "#00efb7" (Controls Buttons, Accents) wm_good
+    mutedgrey_color: "#999" # "#999" # Contols writing 
+    greydark_color: "#4a4a4a" # "#4a4a4a" Controls Headers
+    bluegrey_color: "#000000" # "#444F60" (Controls Headers & Footer Background)  wm_good
+    navbar_color: "#000000" # "#FFF"   wm_good
+    navbar_text_color: "#3e9ec5" # #999  wm_good
+  
+  # Customizable navbar. For a dropdown, add a "sublinks" list.
+  navbarStyle:
+  navbar:
+  # - title: Dropdown
+  #   sublinks:
+  #   - title: Dropdown item
+  #     url: /
+  #   - title: Dropdown item
+  #     url: /
+  #   - title: Dropdown item
+  #     url: /
+  - title: Consulting Services
+    url: /consulting
+  #- title: Testimonials
+   # url: /testimonials
+  # - title: Blog
+ #   url: /blog
+  - title: Machine learning 
+    url: /machinelearning  
+  - title: Contact Us
+    url: /contact
+  - title: Apply Now
+    url: /applynow
+    button: true
+  
+  applynow:
+    title: Claim your free consultation right now.
+    subtitle: Let's have a conversation today 
+    googleFormEmbed: "https://docs.google.com/forms/d/e/1FAIpQLSeaux5ms6OjbAzMM1C6tyYBA9nqveniqk_WEdmQLK3uOHSQ9Q/viewform?embedded=true"
+  
+  contact:
+    title: Contact Us
+    subtitle: What can we help you with?
+    buttontext: Contact Us
+  
+  section1_attention:
+    # Main hero title
+    title: "Prevent your organization's losses by $2M with pH_Analytics in 120 days"
+    titleTextColor: "white"
+    # Hero subtitle (optional)
+    subtitle: "We save our clients on average $100k - $2M per year by diagnosing corporate systems using AI and Advanced Analytics."
+    heroBackgroundColor: "#000000c7"
+    
+    # Button text
+    buttontext: "How it works"
+    # Where the main hero button links to
+    buttonlink: "/#section2"
+    # Hero image (from static/images/___)
+    # Can get these images from flaticon.com
+    image: logos/PH web DNA_big.jpg
+    backgroundImage: illustrations/test1.jpg
+    clientstext: "Some of the clients we've helped:"
+    # Footer logos (from static/images/logos/clients/___.svg)
+    clientlogos:
+    - luesc.png
+    - SLUHN_Logo.jpg  
+    - ap.png
+    - mg.png 
+    - gt.png
+    - js.png
+    - bt.png
+    - p2.png
+    - mz.png
+    - fs.png
+
+ 
+  section2_transformation:
+    title: "How the pH-Analytics system works." 
+    subtitle: "Reduce costs by resolving employee attrition and personnel conflicts in 4 simple steps."
+    # icons are located in static > images > illustrations > icons
+    tile_size: is-one-quarter
+    tile_height: "400px"
+    tiles:
+    - title: "Step 1"
+      subtitle: Speak With A Consultant Today
+      icon: conversation.svg
+      text: Speak directly with the owner or one of our consultants and begin. 
+    - title: "Step 2"
+      subtitle: Assessment and project development 
+      icon: forecasting.svg
+      text: Your corporate insights and our consulting grows into an evidence based measurable solution. 
+    - title: "Step 3"
+      subtitle: Diagnostics for employee and departments  
+      icon: collaboration.svg
+      text: Using anonymous personnel data collection, we uncover underlying and root obstacles which lead to diagnostic reports.
+    - title: "Step 4"
+      subtitle: Implementation of measurable solutions  
+      icon: monitoring.svg
+      text: Remedy strategies leading to actionable changes produce risk reduction, corporate strength and calculable big savings.  
+  
+  section3_interest:
+    title: Measurable Results - Accurate Diagnostics 
+    subtitle: "Resolving your company’s pain points and attrition targets because of our analytical measures  "
+    image: plot_zoom_png.png
+    tile_size: is-one-third
+    tile_height: "200px"
+    tiles:
+    - title: "Get results in 120 days"
+      subtitle: "Go from losing money to saving money without hiring multiple consultants or handling time-consuming project management yourself."
+    - title: "Safe and Secure"
+      subtitle: "Your data is secure, and the results are held by our strict non-disclosure contracts. The diagnostics, strategies and results can be deployed to those personnel who act. Or executive consulting is offered by pH-Analytics. Let us do the heavy lifting for you."
+    - title: "Our ROI Guarantee"
+      subtitle: "Our guarantee is set upon our agreed upon scope of work and price structure. If ROI results are not evident pH-Analytics will continue working at no further cost to you until they are. We like to resolve problems."
+    
+    
+  section4_desire:
+    title: Trusted by awesome companies like these that are saving money and improving their demand planning
+    subtitle: Real results from our valued clients.
+    clients:
+    - name: Kate
+      quote: We're a growing company and we strongly believe that hiring is one of the most important things we do.  pH Analytics trained our hiring managers with a proven systematic approach that gives us the tools to make greatly improved hiring decisions.  We also use pH's validated assessments to ensure that we are hiring candidates who will be a good fit for our company and where we are headed.   Office Manager, Johnstone Supply
+      job: Senior Office Manager, Johnstone Supply
+      img: women1.png
+    - name: Donna
+      quote: pH-Analytics implemented a validated methodology for measuring employee satisfaction and a process for developing annual improvement plans based on the results.  Since starting three year ago, we have experienced increasing employee satisfaction and higher productivity each year. We highly recommend pH Analytics. 
+      job: Director of Marketing, Puritan Products 
+      img: women2.png
+    #- name: Gary
+      #quote: I finally took the plunge and boy did it pay off. We got the first version of our forecasting system in 60 days. Let's just say that the ROI was immediate.
+      #job: Executive VP, Marathon Petroleum
+      #img: 3.png
+  
+  section5_faq: false
+  
+  section6_action:
+    callToActionText: Would you like to be our next success story?
+    buttonText: Apply now
+    buttonLink: /applynow
+  
+  footer:
+    # Logo (from /images/logos/___)
+    logo: PH web DNA_big.png
+    navbarLogoWidth: "880px"
+    navbarLogoHeight: "150px"
+    # Social Media Title
+    socialmediatitle: Follow Us
+    # Social media links (GitHub, Twitter, etc.). All are optional.
+    # Icons are from Font Awesome
+    socialmedia:
+    - link: https://www.linkedin.com/in/william-henry-82717159/
+      icon: linkedin
+    #- link: https://facebook.com/#
+     # icon: facebook
+    #- link: https://twitter.com/lucperkins
+     # icon: twitter
+    - link: https://github.com/WmHenry
+      icon: github
+    bulmalogo: false
+    quicklinks:
+      column1:
+        title: "Consulting"
+        links:
+        - text: Why choose pH-Analytics?
+          link: /consulting
+      #  - text: Testimonials
+      #   link: /testimonials
+        - text: Machine learning
+          link: /machinelearning
+        - text: Apply to work with us
+          link: /applynow
+      #column2:
+       # title: "Blog"
+       # links:
+       # - text: Latest news
+       #   link: /blog
+          
+
+          
