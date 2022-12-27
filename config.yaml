@@ -83,7 +83,7 @@ params:
   
   section1_attention:
     # Main hero title
-    title: "Prevent your organization's losses by $2M with pH_Analytics in 120 days"
+    title: "Prevent your organization's losses by $2M with pH-Analytics in 120 days"
     titleTextColor: "white"
     # Hero subtitle (optional)
     subtitle: "We save our clients on average $100k - $2M per year by diagnosing corporate systems using AI and Advanced Analytics."
