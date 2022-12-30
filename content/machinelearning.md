@@ -16,7 +16,7 @@ type: testimonials
 
 ### 1. Predicting your customer’s behaviors, tendencies, and churn potential with machine learning.  
 
-### 2. We create interactive dashboards and interactive web-based reports that provides your team with immediate insights 
+### 2. We create interactive dashboards and interactive reports that provides your team with immediate insights 
 
 ***
 
@@ -26,7 +26,7 @@ type: testimonials
 <img class="" src="/images/illustrations/discpt_stats.png" 
 </figure>
 
-### 1. Seasonality demands or slow downs directly impact costs due to inventory demands, supply-chain challenges and purchasing actions, some of your customers do not know their own purchasing trends. 
+### 1. Seasonality demands or slowdowns directly impact costs due to inventory demands, supply-chain challenges and purchasing actions. Some of your customers do not know their own business trends.
 
 ### 2. By using your customer’s historical data patterns, product providing companies can mitigate huge operating cost and provide accurate and reliable customer care. 
 
@@ -40,7 +40,7 @@ type: testimonials
 
 ### 1. Several of your customers may have similar purchasing preferences. By using cluster analysis, upselling products to comparable customers will increase revenue significantly. 
 
-### 2. Ph-Analytics is your source for all advanced machine learning projects. Our team can help you find better and consistent ways of upselling, new consumer onboarding and risk assessments.   
+### 2. Ph-Analytics is your source for all advanced machine learning projects. Our team can help you find better and consistent ways of cross selling, new consumer onboarding and risk assessments.   
 
 ***
 

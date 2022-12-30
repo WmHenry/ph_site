@@ -97,7 +97,7 @@ params:
     # Can get these images from flaticon.com
     image: logos/PH web DNA_big.jpg
     backgroundImage: illustrations/test1.jpg
-    clientstext: "Some of the clients we've helped:"
+    clientstext: "Some industries we’ve helped in employee turnover or business intelligence projects using machine learning:"
     # Footer logos (from static/images/logos/clients/___.svg)
     clientlogos:
     - luesc.png
@@ -146,7 +146,7 @@ params:
     - title: "Get results in 120 days"
       subtitle: "Go from losing money to saving money without hiring multiple consultants or handling time-consuming project management yourself."
     - title: "Safe and Secure"
-      subtitle: "Your data is secure, and the results are held by our strict non-disclosure contracts. The diagnostics, strategies and results can be deployed to those personnel who act. Or executive consulting is offered by pH-Analytics. Let us do the heavy lifting for you."
+      subtitle: "Your data is secure, and the results are held by our strict non-disclosure contracts. The diagnostics, strategies and results can be deployed to those personnel who act. Or executive coaching is offered by pH-Analytics. Let us do the heavy lifting for you."
     - title: "Our ROI Guarantee"
       subtitle: "Our guarantee is set upon our agreed upon scope of work and price structure. If ROI results are not evident pH-Analytics will continue working at no further cost to you until they are. We like to resolve problems."
     
