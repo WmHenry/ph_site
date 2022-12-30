@@ -29,7 +29,7 @@ type: testimonials
 <img class="" src="/images/illustrations/comps.jpg" 
 </figure>
 
-### 1. Sometimes it may seem like a manager is the right fit, but your department might know otherwise. 
+### 1. Sometimes it may seem like a manager is the right fit, but your departments might know otherwise. 
 
 ### 2. After a comprehensive assessment, we drill down with anonymous instruments/surveys which uncover reality.     
 
