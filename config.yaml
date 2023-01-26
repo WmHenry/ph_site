@@ -163,11 +163,11 @@ params:
       quote: pH-Analytics implemented a validated methodology for measuring employee satisfaction and a process for developing annual improvement plans based on the results.  Since starting three year ago, we have experienced increasing employee satisfaction and higher productivity each year. We highly recommend pH Analytics. 
       job: Director of Marketing, Puritan Products 
       img: women2.png
-    #- name: Gary
-      #quote: I finally took the plunge and boy did it pay off. We got the first version of our forecasting system in 60 days. Let's just say that the ROI was immediate.
-      #job: Executive VP, Marathon Petroleum
-      #img: 3.png
-  
+    - name: Ethan
+      quote: William Henry, a member of Lehigh University – ESC, managed a team of graduate students for a project at Greene Tweed. The project involved the development of a predictive forecasting model which was integrated into our company’s systems. William’s oversight, communications and statistical expertise was excellent during the process. I highly recommend his analytical skills and capabilities. 
+      job: IT Manager, Enterprise Systems
+      img: 3.png
+
   section5_faq: false
   
   section6_action:
