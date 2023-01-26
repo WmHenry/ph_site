@@ -165,7 +165,7 @@ params:
       img: women2.png
     - name: Ethan
       quote: William Henry, a member of Lehigh University – ESC, managed a team of graduate students for a project at Greene Tweed. The project involved the development of a predictive forecasting model which was integrated into our company’s systems. William’s oversight, communications and statistical expertise was excellent during the process. I highly recommend his analytical skills and capabilities. 
-      job: IT Manager, Enterprise Systems
+      job: IT Manager, Enterprise Systems, Greene Tweed
       img: 3.png
 
   section5_faq: false
