@@ -10,9 +10,11 @@ type: testimonials
 # Benefit 1: Reactive forecasts during changing demand using machine learning 
 
 <figure class="image">
-<img class="" src="/images/illustrations/mockups/nostradamus_app.jpg" 
+<img class="" src="/images/illustrations/mockups/dashboard_bike.png" 
 </figure>
 
+#### Click the below URL to use the above dashboard. Use your browser’s back arrow to return here.
+ ( https://wm-henry-ph-analytics.shinyapps.io/forecasting_sales_bikes_app/ )
 
 ### 1. Predicting your customer’s behaviors, tendencies, and churn potential with machine learning.  
 

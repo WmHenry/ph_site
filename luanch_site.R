@@ -16,6 +16,8 @@ blogdown::serve_site()
 #  Stop the Local Server
 blogdown::stop_server()
 
+# Title change "Prevent your organization's profit and loss by $2M with pH-Analytics in 120 days"
+
 
 # git command:
 
