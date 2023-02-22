@@ -139,7 +139,7 @@ params:
   section3_interest:
     title: Measurable Results - Accurate Diagnostics 
     subtitle: "Resolving your company’s pain points and attrition targets because of our analytical measures  "
-    image: plot_zoom_png.png
+    image: hr_app.png
     tile_size: is-one-third
     tile_height: "200px"
     tiles:
