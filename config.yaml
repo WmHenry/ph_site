@@ -83,10 +83,10 @@ params:
   
   section1_attention:
     # Main hero title
-    title: "Improve your organization's bottom line by $2M with pH-Analytics in 120 days"
+    title: "Improve your organization's bottom line with pH-Analytics in 120 days"
     titleTextColor: "white"
     # Hero subtitle (optional)
-    subtitle: "We save our clients on average $100k - $2M per year by decreasing employee turnover using AI and Advanced Analytics."
+    subtitle: "Increasing efficiency and decreasing employee turnover using AI and Advanced Analytics."
     heroBackgroundColor: "#000000c7"
     
     # Button text
