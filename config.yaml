@@ -113,7 +113,7 @@ params:
 
  
   section2_transformation:
-    title: "How the pH-Analytics system works." 
+    title: "Pre-Employment Assessments - Whole Company Analysis" 
     subtitle: "Reduce costs by resolving employee attrition and personnel conflicts in 4 simple steps."
     # icons are located in static > images > illustrations > icons
     tile_size: is-one-quarter
@@ -137,7 +137,7 @@ params:
       text: Remedy strategies leading to actionable changes produce risk reduction, corporate strength and calculable big savings.  
   
   section3_interest:
-    title: Measurable Results - Accurate Diagnostics 
+    title: Measurable Results - Accurate Diagnostics - Pre 
     subtitle: "Resolving your company’s pain points and attrition targets because of our analytical measures  "
     image: hr_app.png
     tile_size: is-one-third

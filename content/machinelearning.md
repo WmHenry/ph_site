@@ -14,6 +14,7 @@ type: testimonials
 </figure>
 
 #### Click the below URL to use the above dashboard. Use your browser’s back arrow to return here.
+###### This app may take a few seconds to load due to it's size:
  ( https://wm-henry-ph-analytics.shinyapps.io/forecasting_sales_bikes_app/ )
 
 ### 1. Predicting your customer’s behaviors, tendencies, and churn potential with machine learning.  
